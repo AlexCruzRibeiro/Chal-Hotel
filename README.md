@@ -1,2 +1,2 @@
 # Chal-Hotel
-Projeto de um chalé fictício usando HTML e VSS.
+Projeto de um chalé fictício usando HTML e CSS.
